@@ -1,4 +1,4 @@
-# Monujo iOS
+# Txchangecoin iOS
 
 ## Build
 

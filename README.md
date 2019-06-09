@@ -5,7 +5,7 @@
 Clone the repository
 ```
 git clone https://github.com/txchangecoin-project/txchangecoin-ios.git
-cd monujo-ios
+cd txchangecoin-ios
 ```
 
 Install dependencies with [Cocoapods](https://cocoapods.org/)

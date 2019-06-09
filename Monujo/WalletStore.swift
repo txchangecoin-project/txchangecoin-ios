@@ -1,6 +1,6 @@
 //
 //  WalletStore.swift
-//  MoneroWallet
+// TXXWallet
 //
 //  Created by Ugo on 2016/11/06.
 //  Copyright © 2016 Ugo Bataillard. All rights reserved.
@@ -11,7 +11,7 @@ import KeychainAccess
 
 class WalletStore {
 
-    static let daemonURL: String = "http://kiki:18081"
+    static let daemonURL: String = "http://kiki:38381"
     static let walletManager: WalletManager = WalletManager.getInstance()
     static let testNet = false
 

@@ -227,7 +227,7 @@ namespace boost
   {
     a & x.mask;
     a & x.amount;
-    // a & x.senderPk; // not serialized, as we do not use it in monero currently
+    // a & x.senderPk; // not serialized, as we do not use it in txchangecoin currently
   }
 
   inline void serializeOutPk(boost::archive::binary_iarchive &a, rct::ctkeyV &outPk_, const boost::serialization::version_type ver)
